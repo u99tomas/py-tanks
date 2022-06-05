@@ -1,0 +1,8 @@
+<Stage>
+    <Tree name="treeLarge" x="20" y="-25"/>
+    <Tree name="treeSmall" x="200" y="200"/>
+    <Tree name="treeLarge" x="590" y="20"/>
+    <Tree name="treeSmall" x="570" y="470"/>
+    <Tree name="treeLarge" x="500" y="300"/>
+    <Tree name="treeSmall" x="30" y="460"/>
+</Stage>
