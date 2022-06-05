@@ -8,6 +8,7 @@ class Tank(GameEntity):
         super().__init__(image)
 
     def event(self, event):
+        super().event(event)
 
         if(event.type == pygame.KEYDOWN):
 
